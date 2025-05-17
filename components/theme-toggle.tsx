@@ -2,7 +2,7 @@
 
 import { useTheme } from "next-themes";
 import { motion } from "framer-motion";
-import { Moon, Sun } from "lucide-react";
+import { MoonStar, Sun } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useEffect, useState } from "react";
 
@@ -34,10 +34,10 @@ export function ThemeToggle() {
         exit={{ rotate: 90, opacity: 0 }}
         transition={{ type: "spring", stiffness: 300, damping: 20 }}
       >
-        {theme === "dark" ? (
-          <Sun className="h-5 w-5" />
+        {theme === "light" ? (
+          <MoonStar className="h-5 w-5" />
         ) : (
-          <Moon className="h-5 w-5" />
+          <Sun className="h-5 w-5" />
         )}
       </motion.div>
     </Button>
