@@ -191,19 +191,19 @@ export const data: TabData = {
       description:
         "Bachelor of Technology in Computer Science & Engineering (CSE)",
       href: "https://www.brainwareuniversity.ac.in/",
-      icon: "/images/Brainware_University.png",
+      icon: "/DevShowcase/images/Brainware_University.png",
     },
     {
       title: "Naimouza Sub Hania High Madrasah",
       description: "Class XII",
       href: "https://www.nmshm.org/",
-      icon: "/images/nms.png",
+      icon: "/DevShowcase/images/nms.png",
     },
     {
       title: "Nai Mouza High School",
       description: "Class X",
       href: "#",
-      icon: "/images/nmh.png",
+      icon: "/DevShowcase/images/nmh.png",
     },
   ],
   hobbies: [
