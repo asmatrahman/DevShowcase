@@ -2,7 +2,7 @@
 
 ![DevShowcase Demo](/public/cover.png)
 
-**DevShowcase** is a sleek online portfolio built with Next.js, Tailwind CSS, and Framer Motion. It helps you highlight your skills, showcase your projects, and share helpful resources with potential clients, employers, or collaborators—all in a clean and animated tab-based interface.
+> **DevShowcase** is a sleek online portfolio built with Next.js, Tailwind CSS, and Framer Motion. It helps you highlight your skills, showcase your projects, and share helpful resources with potential clients, employers, or collaborators—all in a clean and animated tab-based interface.
 visit: https://asmatrahman.github.io/devshowcase/
 ---
 
