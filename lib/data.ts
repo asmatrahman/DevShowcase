@@ -61,7 +61,7 @@ export const data: TabData = {
       description:
         "d a comprehensive food delivery platform with an integrated admin panel, facilitating efficient management of orders and user interactions",
       href: "https://foodrush-ar.netlify.app/",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
   ],
   articles: [
@@ -70,7 +70,7 @@ export const data: TabData = {
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       href: "#",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
   ],
   bookmarks: [
@@ -79,110 +79,110 @@ export const data: TabData = {
       description:
         "Interactive Next.js course that teaches you how to build full-stack web applications.",
       href: "https://nextjs.org/learn",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
     {
       title: "Tailwind CSS Documentation",
       description:
         "Comprehensive guide to Tailwind CSS utility classes and configuration options.",
       href: "https://tailwindcss.com/docs",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
     {
       title: "Flexbox Labs",
       description: "A visual tool for experimenting with CSS flexbox layouts.",
       href: "https://flexboxlabs.netlify.app/",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
     {
       title: "Fontsource",
       description:
         "Download and self-host 1500+ open-source fonts in neatly bundled NPM packages.",
       href: "https://fontsource.org",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
     {
       title: "CallToInspiration",
       description:
         "Small UI details and microinteractions to spark design ideas.",
       href: "https://calltoinspiration.com",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
     {
       title: "Best Free Font Libraries & Type Inspiration Sites",
       description:
         "Curated list of the top free font libraries and typography inspiration sites.",
       href: "https://www.toools.design/font-library-and-inspiration",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
     {
       title: "Fresh Background Gradients",
       description:
         "A free collection of 180 beautiful linear CSS gradients, plus PNG, Sketch & Photoshop files.",
       href: "https://webgradients.com",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
     {
       title: "CSS Layout Generator",
       description:
         "Generate CSS Grid and Flexbox layouts with an easy visual interface.",
       href: "https://layout.bradwoods.io",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
     {
       title: "Storyset",
       description:
         "Customize, animate, and download free vector illustrations via an online editor.",
       href: "https://storyset.com",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
     {
       title: "unDraw Illustrations",
       description:
         "Open-source illustrations for any idea—completely free and customizable.",
       href: "https://undraw.co",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
     {
       title: "BG.IBELICK",
       description:
         "Modern, ready-to-use background snippets crafted with Tailwind CSS and Vanilla CSS.",
       href: "https://bg.ibelick.com",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
     {
       title: "Squoosh",
       description:
         "In-browser image optimizer that compresses and compares codecs—no uploads needed.",
       href: "https://squoosh.app",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
     {
       title: "Shots",
       description: "Create amazing device mockups for showcasing your designs.",
       href: "https://shots.so",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
     {
       title: "SVG Logo Library",
       description:
         "A curated library of SVG logos with links to each brand’s official site.",
       href: "https://svgl.app",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
     {
       title: "Landingfolio",
       description:
         "The best landing page design inspiration, templates, and components gallery.",
       href: "https://www.landingfolio.com",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
     {
       title: "Shapedivider",
       description:
         "Free tool to generate and export beautiful SVG shape dividers for web layouts.",
       href: "https://www.shapedivider.app",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
   ],
   education: [
@@ -212,21 +212,21 @@ export const data: TabData = {
       description:
         "Learn the fundamentals of photography, from composition to lighting.",
       href: "#",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
     {
       title: "Home Gardening Guide",
       description:
         "Tips and tricks for growing your own vegetables and herbs at home.",
       href: "#",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
     {
       title: "DIY Electronics Projects",
       description:
         "Simple electronics projects you can build at home with basic components.",
       href: "#",
-      icon: "/images/icon.png",
+      icon: "/DevShowcase/images/icon.png",
     },
   ],
   shop: [
@@ -235,7 +235,7 @@ export const data: TabData = {
     //   description:
     //     "A collection of high-quality stickers featuring programming languages and frameworks.",
     //   href: "https://example.com/stickers",
-    //   icon: "/images/icon.png",
+    //   icon: "/DevShowcase/images/icon.png",
     // }
   ],
 };
