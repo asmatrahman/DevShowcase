@@ -70,12 +70,12 @@ export default function TabsPanel({ activeTab, onTabChange }: TabsPanelProps) {
                   {item.icon && (
                     <div className="flex-shrink-0 w-12 h-12 rounded-md overflow-hidden">
                       <Image
-                        src={item.icon ? item.icon : "/images/icon.png"}
+                        src={item.icon ? item.icon : "/DevShowcase/images/icon.png"}
                         alt={item.title}
                         width={48}
                         height={48}
                         className={`object-cover ${
-                          item.icon === "/images/icon.png" ? "dark:invert" : ""
+                          item.icon === "/DevShowcase/images/icon.png" ? "dark:invert" : ""
                         }`}
                         priority
                       />
@@ -98,7 +98,7 @@ export default function TabsPanel({ activeTab, onTabChange }: TabsPanelProps) {
             : data[activeTab]?.length === 0 && (
                 <div className="flex flex-col items-center justify-center h-64">
                   <Image
-                    src="/images/not-found.svg"
+                    src="/DevShowcase/images/not-found.svg"
                     alt="No results found"
                     width={400}
                     height={400}
