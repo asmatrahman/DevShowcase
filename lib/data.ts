@@ -46,8 +46,8 @@ export const data: TabData = {
       title: "Akhbaar Alerts: News App",
       description:
         "Experience the easiest way to receive real-time news alerts tailored to your interests. Stay Updated, stay connected, and never miss a moment of what's happening around the world.",
-      href: "https://akhbaaralerts-landing-page.netlify.app/",
-      icon: "https://akhbaaralerts-landing-page.netlify.app/logo.png",
+      href: "https://akhbaar-alerts.netlify.app/",
+      icon: "https://akhbaar-alerts.netlify.app/logo.png",
     },
     {
       title: "Protijogi: Quiz Website",
